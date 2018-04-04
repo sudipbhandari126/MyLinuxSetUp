@@ -11,7 +11,7 @@
   [[default]]
     [[[child0]]]
       fullscreen = False
-      last_active_term = eb6a40e3-3502-404b-b966-9d9be0feaa99
+      last_active_term = 7fb8e6cb-0249-400b-ae29-cb889f99a67b
       last_active_window = True
       maximised = True
       order = 0
@@ -23,45 +23,45 @@
     [[[child1]]]
       order = 0
       parent = child0
-      position = 681
-      ratio = 0.499633967789
-      type = HPaned
+      position = 342
+      ratio = 0.496387283237
+      type = VPaned
     [[[child2]]]
       order = 0
       parent = child1
-      position = 344
-      ratio = 0.499277456647
-      type = VPaned
+      position = 679
+      ratio = 0.498169838946
+      type = HPaned
     [[[child5]]]
       order = 1
       parent = child1
-      position = 344
-      ratio = 0.499277456647
-      type = VPaned
+      position = 679
+      ratio = 0.498169838946
+      type = HPaned
     [[[terminal3]]]
       order = 0
       parent = child2
-      profile = AtomOneLight
+      profile = Material
       type = Terminal
-      uuid = 7378655f-e378-4fc1-94df-bd24fa0c152b
+      uuid = fc77be7b-d680-4e5a-9bee-69a27e9f049c
     [[[terminal4]]]
       order = 1
       parent = child2
-      profile = AtomOneLight
+      profile = Material
       type = Terminal
-      uuid = eb6a40e3-3502-404b-b966-9d9be0feaa99
+      uuid = f6c61bec-e9e4-44a8-a43b-4bc13e602be0
     [[[terminal6]]]
       order = 0
       parent = child5
-      profile = AtomOneLight
+      profile = Material
       type = Terminal
-      uuid = fc77be7b-d680-4e5a-9bee-69a27e9f049c
+      uuid = 7fb8e6cb-0249-400b-ae29-cb889f99a67b
     [[[terminal7]]]
       order = 1
       parent = child5
-      profile = AtomOneLight
+      profile = Material
       type = Terminal
-      uuid = f8b91384-0caa-42c7-ab03-15e39b343358
+      uuid = ebce05d3-320f-4465-89b3-bf12ae403586
   [[2 vertical bars]]
     [[[child0]]]
       fullscreen = False
@@ -92,60 +92,6 @@
       profile = Material
       type = Terminal
       uuid = fc77be7b-d680-4e5a-9bee-69a27e9f049c
-  [[4 splits]]
-    [[[child0]]]
-      fullscreen = False
-      last_active_term = eb6a40e3-3502-404b-b966-9d9be0feaa99
-      last_active_window = True
-      maximised = True
-      order = 0
-      parent = ""
-      position = 0:24
-      size = 1366, 692
-      title = root@Ubuntu-1604-xenial-64-minimal: ~
-      type = Window
-    [[[child1]]]
-      order = 0
-      parent = child0
-      position = 681
-      ratio = 0.499633967789
-      type = HPaned
-    [[[child2]]]
-      order = 0
-      parent = child1
-      position = 344
-      ratio = 0.499277456647
-      type = VPaned
-    [[[child5]]]
-      order = 1
-      parent = child1
-      position = 344
-      ratio = 0.499277456647
-      type = VPaned
-    [[[terminal3]]]
-      order = 0
-      parent = child2
-      profile = AtomOneLight
-      type = Terminal
-      uuid = 7378655f-e378-4fc1-94df-bd24fa0c152b
-    [[[terminal4]]]
-      order = 1
-      parent = child2
-      profile = AtomOneLight
-      type = Terminal
-      uuid = eb6a40e3-3502-404b-b966-9d9be0feaa99
-    [[[terminal6]]]
-      order = 0
-      parent = child5
-      profile = AtomOneLight
-      type = Terminal
-      uuid = fc77be7b-d680-4e5a-9bee-69a27e9f049c
-    [[[terminal7]]]
-      order = 1
-      parent = child5
-      profile = AtomOneLight
-      type = Terminal
-      uuid = f8b91384-0caa-42c7-ab03-15e39b343358
 [plugins]
 [profiles]
   [[default]]
@@ -154,7 +100,6 @@
     copy_on_selection = True
     font = Sans 10
     foreground_color = "#000000"
-    use_system_font = False
   [[3024 Day]]
     background_color = "#f7f7f7"
     background_image = None
