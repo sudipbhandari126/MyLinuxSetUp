@@ -26,3 +26,4 @@ Zshell is my shell of choice. It's also used as default shell in macOS.
 Make zsh default shell: `chsh -s $(which zsh)`
 [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) has tons of configurations for zsh including interesting themes and so on.
 
+[Here is my  Zshell configuration file](https://github.com/sudipbhandari126/MyLinuxSetUp/blob/master/zsh/.zshrc) 
